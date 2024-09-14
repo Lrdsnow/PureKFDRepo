@@ -13,11 +13,16 @@
             "bundleid": "uwu.lrdsnow.EUEnabler",
             "author": "Lrdsnow",
             "description": "Enable EU features outside of the EU!",
+            "long_description":"Enables EU features outside of the EU!\nWarning: Low Success Rate",
             "version": "1.0",
             "icon": "assets/misc.png",
             "banner":"assets/miscBanner.png",
             "path": "pkgs/uwu.lrdsnow.EUEnabler.purekfd",
-            "screenshots":[]
+            "screenshots":[
+                "assets/screenshots/EUEnabler0.png",
+                "assets/screenshots/EUEnabler1.png",
+                "assets/screenshots/EUEnabler2.png"
+            ]
         }
     ]
 }
