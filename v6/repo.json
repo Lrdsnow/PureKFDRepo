@@ -22,7 +22,8 @@
                 "assets/screenshots/EUEnabler0.png",
                 "assets/screenshots/EUEnabler1.png",
                 "assets/screenshots/EUEnabler2.png"
-            ]
+            ],
+            "varOnly":true
         }
     ]
 }
