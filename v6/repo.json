@@ -1,0 +1,23 @@
+{
+    "spec":"1.0",
+    "repotype":"purekfdextended",
+    "name": "PureKFD",
+    "description": "Tweak repo specialized for PureKFD!",
+    "icon": "icons/icon.png",
+    "featured": [
+        
+    ],
+    "packages": [
+        {
+            "name": "EUEnabler",
+            "bundleid": "uwu.lrdsnow.EUEnabler",
+            "author": "Lrdsnow",
+            "description": "Enable EU features outside of the EU!",
+            "version": "1.0",
+            "icon": "icons/misc.png",
+            "banner":"icons/miscBanner.png",
+            "path": "pkgs/uwu.lrdsnow.EUEnabler.purekfd",
+            "screenshots":[]
+        }
+    ]
+}
