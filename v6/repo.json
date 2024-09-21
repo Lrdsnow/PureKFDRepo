@@ -13,7 +13,7 @@
             "bundleid": "uwu.lrdsnow.EUEnabler",
             "author": "Lrdsnow",
             "description": "Enable EU features outside of the EU!",
-            "long_description":"Enables EU features outside of the EU!\nWarning: Low Success Rate",
+            "long_description":"Enables EU features outside of the EU!\nONLY FOR iOS 17.4.x THIS WILL NOT WORK ON ANY OTHER VERSION",
             "version": "1.0",
             "icon": "assets/misc.png",
             "banner":"assets/miscBanner.png",
